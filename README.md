@@ -18,7 +18,7 @@
 <img src="https://github.com/user-attachments/assets/e52b45e1-e6ac-4ea1-9566-fb63890d23d6" width="400"> <img src="https://github.com/user-attachments/assets/9cbeaf96-49fa-4044-93b2-734b01b56beb" width="400">
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/pEMU-artwork/psnessw/total?logo=github&label=GitHub%20Downloads)  
-Téléchargement : [Big Preview GBA](https://github.com/chronoss09/pEMU-artwork/releases/tag/psnessw)
+Téléchargement : [Big Preview SNES](https://github.com/chronoss09/pEMU-artwork/releases/tag/psnessw)
 
 ## Big Preview GBA : ![NS](https://img.shields.io/badge/-Nintendo%20Switch-e4000f?style=flat&logo=Nintendo%20Switch)
 
