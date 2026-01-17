@@ -13,6 +13,13 @@
         <img src="https://img.shields.io/github/stars/chronoss09/pEMU-artwork" width="120"></a>
 </p>
 
+## Big Preview GB : ![NS](https://img.shields.io/badge/-Nintendo%20Switch-e4000f?style=flat&logo=Nintendo%20Switch)
+
+<img src="https://github.com/user-attachments/assets/bf59e01e-92a6-43e4-a3f6-714497f2789e" width="400"> <img src="https://github.com/user-attachments/assets/53794f31-f2b4-449d-bcc0-f16a284327c3" width="400">
+
+![GitHub Downloads](https://img.shields.io/github/downloads/Chronoss09/pEMU-artwork/pgbsw/total?logo=github&label=GitHub%20Downloads)  
+Téléchargement : [Big Preview GB](https://github.com/chronoss09/pEMU-artwork/releases/tag/pgbsw)
+
 ## Big Preview SNES : ![NS](https://img.shields.io/badge/-Nintendo%20Switch-e4000f?style=flat&logo=Nintendo%20Switch)
 
 <img src="https://github.com/user-attachments/assets/e52b45e1-e6ac-4ea1-9566-fb63890d23d6" width="400"> <img src="https://github.com/user-attachments/assets/9cbeaf96-49fa-4044-93b2-734b01b56beb" width="400">
